@@ -1,0 +1,6 @@
+{
+  "modules": {
+    "documents": true,
+    "module-management": true
+  }
+}
